@@ -17,6 +17,6 @@ My aim is to solve all the problems in 8 weeks, which is the default plan. (Numb
 - If you get stuck on a question (for example trying for more than an hour), don't waste any more time and take a quick hint by looking at example solutions, then try again to solve by yourself.
 
 ### Questions solve so far
-| Day | Date                | Question |LeetCode link|My solution|
-|-----|---------------------|-------|---|---|
-| 1   | Nov 7, 2022|Two Sum| https://leetcode.com/problems/two-sum |
+| Day | Date                | Question | LeetCode link                                     | My solution                                                                                                                                            |
+|-----|---------------------|-------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Nov 7, 2022|Two Sum| [LeetCode](https://leetcode.com/problems/two-sum) | [Java code](https://github.com/milikkan/grind75-leetcode/blob/d6851fe91c2c5c938604f531827c2aa4fecaea07/src/main/java/dev/milikkan/grind75/TwoSum.java) |
