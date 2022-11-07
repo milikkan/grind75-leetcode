@@ -17,7 +17,6 @@ My aim is to solve all the problems in 8 weeks, which is the default plan. (Numb
 - If you get stuck on a question (for example trying for more than an hour), don't waste any more time and take a quick hint by looking at example solutions, then try again to solve by yourself.
 
 ### Questions solve so far
-
 | Day | Date                | Question |LeetCode link|My solution|
 |-----|---------------------|-------|---|---|
 | 1   | Nov 7, 2022|Two Sum| https://leetcode.com/problems/two-sum |
