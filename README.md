@@ -18,6 +18,8 @@ My aim is to solve all the problems in 8 weeks, which is the default plan. (Numb
 
 ### Questions solve so far
 | Day | Date        | Question | LeetCode link                                     | My solution                                                                                                                                            |
-|-----|-------------|-------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | Nov 7, 2022 |Two Sum| [LeetCode](https://leetcode.com/problems/two-sum) | [Java code](https://github.com/milikkan/grind75-leetcode/blob/d6851fe91c2c5c938604f531827c2aa4fecaea07/src/main/java/dev/milikkan/grind75/TwoSum.java) |
-| 2   | Nov 8, 2022 |Valid Parentheses| [LeetCode](https://leetcode.com/problems/valid-parentheses/) | [Java code](https://github.com/milikkan/grind75-leetcode/blob/main/src/main/java/dev/milikkan/grind75/ValidParentheses.java) |
+|----|-------------|-------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | Nov 7, 2022 |Two Sum| [LeetCode](https://leetcode.com/problems/two-sum) | [Java code](https://github.com/milikkan/grind75-leetcode/blob/d6851fe91c2c5c938604f531827c2aa4fecaea07/src/main/java/dev/milikkan/grind75/TwoSum.java) |
+| 2  | Nov 8, 2022 |Valid Parentheses| [LeetCode](https://leetcode.com/problems/valid-parentheses/) | [Java code](https://github.com/milikkan/grind75-leetcode/blob/main/src/main/java/dev/milikkan/grind75/ValidParentheses.java) |
+| 3  | Nov 9, 2022 |Merge Two Sorted Lists| [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java code](https://github.com/milikkan/grind75-leetcode/blob/main/src/main/java/dev/milikkan/grind75/MergeTwoSortedLists.java) |
+|    |             |Best Time to Buy and Sell Stock| [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java code](https://github.com/milikkan/grind75-leetcode/blob/main/src/main/java/dev/milikkan/grind75/BestTimeToBuyAndSellStock.java) |
