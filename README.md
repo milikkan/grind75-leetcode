@@ -4,7 +4,7 @@ This is the repo which contains my solutions to the **Grind75** study plan quest
 
 [Grind75](https://www.techinterviewhandbook.org/grind75) is a study plan that contains 75 LeetCode questions in an increasing difficulty order.
 
-My aim is to solve all the problems in 8 weeks, which is the default plan. (Number of questions and weekly time allocation can be customized but I chose to stick to the default one.)
+My aim is to solve all the problems in 8 weeks, which is the default plan. (Number of questions and weekly time allocation can be customized but I chose to stick with the default one.)
 
 ## Main Challenge rules:
 1. Solve at least one question every day.
@@ -12,11 +12,12 @@ My aim is to solve all the problems in 8 weeks, which is the default plan. (Numb
 3. Tweet about your progress daily.
 
 ### Other rules:
-- On the first round, try to solve without taking any hints or looking to other solutions.
-- If you cannot come up with an optimized solution, try to do best. You can ignore time constraint in this case as long as all the tests pass.
-- If you get stuck on a question (for example trying for more than an hour), don't waste any more time and take a quick hint by looking at example solutions, then try again to solve by yourself.
+- On the first round, try to solve without taking any hints or looking at other solutions.
+- If you cannot come up with an optimized solution, try to do best. You can ignore time constraints in this case as long as all the tests pass.
+- If you get stuck on a question (for example trying for more than an hour), don't waste any more time and take a quick hint by looking at the example solutions, then try to solve again.
 
 ### Questions solve so far
-| Day | Date                | Question | LeetCode link                                     | My solution                                                                                                                                            |
-|-----|---------------------|-------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | Nov 7, 2022|Two Sum| [LeetCode](https://leetcode.com/problems/two-sum) | [Java code](https://github.com/milikkan/grind75-leetcode/blob/d6851fe91c2c5c938604f531827c2aa4fecaea07/src/main/java/dev/milikkan/grind75/TwoSum.java) |
+| Day | Date        | Question | LeetCode link                                     | My solution                                                                                                                                            |
+|-----|-------------|-------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Nov 7, 2022 |Two Sum| [LeetCode](https://leetcode.com/problems/two-sum) | [Java code](https://github.com/milikkan/grind75-leetcode/blob/d6851fe91c2c5c938604f531827c2aa4fecaea07/src/main/java/dev/milikkan/grind75/TwoSum.java) |
+| 2   | Nov 8, 2022 |Valid Parentheses| [LeetCode](https://leetcode.com/problems/valid-parentheses/) | [Java code](https://github.com/milikkan/grind75-leetcode/blob/main/src/main/java/dev/milikkan/grind75/ValidParentheses.java) |
