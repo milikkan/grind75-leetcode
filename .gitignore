@@ -4,7 +4,9 @@ target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
-.idea/*.xml
+.idea/encodings.xml
+.idea/vcs.xml
+.idea/misc.xml
 .idea/modules.xml
 .idea/jarRepositories.xml
 .idea/compiler.xml
