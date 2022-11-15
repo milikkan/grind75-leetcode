@@ -32,3 +32,6 @@ My aim is to solve all the problems in 8 weeks, which is the default plan. (Numb
 | 7 | Nov 13, 2022 |Balanced Binary Tree|[LeetCode](https://leetcode.com/problems/balanced-binary-tree/) | [Java code](https://github.com/milikkan/grind75-leetcode/blob/main/src/main/java/dev/milikkan/grind75/balancedbinarytree/Solution.java) |
 |   |              |Linked List Cycle|[LeetCode](https://leetcode.com/problems/linked-list-cycle/) | [Java code](https://github.com/milikkan/grind75-leetcode/blob/main/src/main/java/dev/milikkan/grind75/LinkedListCycle.java) |
 | 8 | Nov 14, 2022 |Implement Queue using Stacks|[LeetCode](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java code](https://github.com/milikkan/grind75-leetcode/blob/main/src/main/java/dev/milikkan/grind75/ImplementQueueUsingStacks.java) |
+| 9 | Nov 15, 2022 | First Bad Version|[LeetCode](https://leetcode.com/problems/first-bad-version/) | [Java code](https://github.com/milikkan/grind75-leetcode/blob/main/src/main/java/dev/milikkan/grind75/FirstBadVersion.java) |
+|  |              | Ransom Note|[LeetCode](https://leetcode.com/problems/ransom-note/) | [Java code](https://github.com/milikkan/grind75-leetcode/blob/main/src/main/java/dev/milikkan/grind75/RansomNote.java) |
+
